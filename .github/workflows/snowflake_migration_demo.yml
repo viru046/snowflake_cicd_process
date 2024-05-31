@@ -1,4 +1,4 @@
-name:snowflake_migration_demo
+name: snowflake_migration_demo
 
 # Controls when the action will run. 
 on:
